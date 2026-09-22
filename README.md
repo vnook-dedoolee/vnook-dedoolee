@@ -6,6 +6,10 @@
   <img align="center" style="margin:0.5rem" src="https://www.codewars.com/users/vnook-dedoolee/badges/large" alt="Codewars profile" />
 </a>
 
+## LeetCode profile
+
+![](https://leetcard.jacoblin.cool/vnook-dedoolee?theme=dark)
+
 ###
 
 <p align="center">
